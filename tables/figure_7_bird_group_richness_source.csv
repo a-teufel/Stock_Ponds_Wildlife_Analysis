@@ -1,0 +1,25 @@
+pond,ecological_group,observed_richness,pond_label,site,pond_size
+PUSP,Perching birds,3,Peri-urban S,Peri-urban,Small
+PUSP,Raptors and vultures,1,Peri-urban S,Peri-urban,Small
+PUSP,Wading birds and waterfowl,1,Peri-urban S,Peri-urban,Small
+PUSP,Ground/open-country birds,1,Peri-urban S,Peri-urban,Small
+PUMP,Perching birds,1,Peri-urban M,Peri-urban,Medium
+PUMP,Raptors and vultures,0,Peri-urban M,Peri-urban,Medium
+PUMP,Wading birds and waterfowl,1,Peri-urban M,Peri-urban,Medium
+PUMP,Ground/open-country birds,0,Peri-urban M,Peri-urban,Medium
+PULP,Perching birds,3,Peri-urban L,Peri-urban,Large
+PULP,Raptors and vultures,0,Peri-urban L,Peri-urban,Large
+PULP,Wading birds and waterfowl,4,Peri-urban L,Peri-urban,Large
+PULP,Ground/open-country birds,0,Peri-urban L,Peri-urban,Large
+RSP,Perching birds,0,Rural S,Rural,Small
+RSP,Raptors and vultures,0,Rural S,Rural,Small
+RSP,Wading birds and waterfowl,0,Rural S,Rural,Small
+RSP,Ground/open-country birds,1,Rural S,Rural,Small
+RMP,Perching birds,4,Rural M,Rural,Medium
+RMP,Raptors and vultures,4,Rural M,Rural,Medium
+RMP,Wading birds and waterfowl,6,Rural M,Rural,Medium
+RMP,Ground/open-country birds,2,Rural M,Rural,Medium
+RLP,Perching birds,3,Rural L,Rural,Large
+RLP,Raptors and vultures,4,Rural L,Rural,Large
+RLP,Wading birds and waterfowl,5,Rural L,Rural,Large
+RLP,Ground/open-country birds,1,Rural L,Rural,Large

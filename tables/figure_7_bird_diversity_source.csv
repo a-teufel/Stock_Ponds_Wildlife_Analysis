@@ -1,0 +1,7 @@
+pond,pond_label,site,pond_size,table_records,hill_q0,hill_q1,hill_q2
+PUSP,Peri-urban S,Peri-urban,Small,24,6,4.535269075450105,3.84
+PUMP,Peri-urban M,Peri-urban,Medium,10,2,1.6493848884661177,1.4705882352941173
+PULP,Peri-urban L,Peri-urban,Large,19,7,4.419931193091708,3.085470085470086
+RSP,Rural S,Rural,Small,6,1,1,1
+RMP,Rural M,Rural,Medium,56,16,9.072216572518542,6.125000000000001
+RLP,Rural L,Rural,Large,47,13,8.624264155101484,5.737662337662337

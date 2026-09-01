@@ -1,0 +1,16 @@
+pond_1,pond_2,bray_curtis,site_1,site_2,property_comparison
+PUSP,PUMP,0.6909090909090909,Peri-urban,Peri-urban,Within property
+PUSP,PULP,0.5620437956204379,Peri-urban,Peri-urban,Within property
+PUMP,PULP,0.6483516483516484,Peri-urban,Peri-urban,Within property
+PUSP,RSP,0.5614035087719298,Peri-urban,Rural,Between properties
+PUMP,RSP,0.5588235294117647,Peri-urban,Rural,Between properties
+PULP,RSP,0.5578947368421052,Peri-urban,Rural,Between properties
+PUSP,RMP,0.7718120805369127,Peri-urban,Rural,Between properties
+PUMP,RMP,0.5922330097087378,Peri-urban,Rural,Between properties
+PULP,RMP,0.8461538461538461,Peri-urban,Rural,Between properties
+RSP,RMP,0.7757009345794392,Rural,Rural,Within property
+PUSP,RLP,0.8156028368794326,Peri-urban,Rural,Between properties
+PUMP,RLP,0.7473684210526316,Peri-urban,Rural,Between properties
+PULP,RLP,0.8360655737704918,Peri-urban,Rural,Between properties
+RSP,RLP,0.8181818181818182,Rural,Rural,Within property
+RMP,RLP,0.6567164179104478,Rural,Rural,Within property

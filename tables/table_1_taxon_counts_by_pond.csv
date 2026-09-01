@@ -1,0 +1,36 @@
+code,common_name,group,PUSP,PUMP,PULP,RSP,RMP,RLP,total
+LYRU,Bobcat,Predators,1,1,3,0,0,0,5
+CALA,Coyote,Predators,4,6,6,2,5,3,26
+ODVI,White tail Deer,Large Herbivore,1,6,0,4,7,4,22
+SYFL,Eastern Cottontail,Small Herbivores,1,0,5,0,0,0,6
+SCNI,Eastern Fox Squirrel,Small Herbivores,0,0,0,0,2,0,2
+SUSC,Feral Pig,Omivores,41,9,16,19,0,3,88
+DIVI,Virginian Opossum,Omivores,1,0,0,0,0,0,1
+PRLO,Northern Raccoon,Omivores,3,0,3,5,0,0,11
+DANO,Nine Banded Armadillo,Omivores,1,0,1,0,1,1,4
+MEME,Striped Skunk,Omivores,1,0,5,0,0,0,6
+PSTE,Texas Cooter,Reptiles,0,0,0,0,0,5,5
+TRSC,Red-eared slider,Reptiles,0,0,1,0,0,0,1
+ZEMA,Mourning Dove,Perching birds,9,2,0,0,11,0,22
+CACA,Northern Cardinal,Perching birds,7,0,1,0,1,3,12
+TYFO,Scissor-tailed Flycatcher,Perching birds,1,0,0,0,0,2,3
+QUME,Great-tailed Grackle,Perching birds,0,0,3,0,0,0,3
+COBR,American Southern Crow,Perching birds,0,0,0,0,3,2,5
+ZEAS,White winged Dove,Perching birds,0,0,0,0,2,0,2
+AGPH,Red-winger Blackbird,Perching birds,0,0,10,0,0,0,10
+BUJA,Red-tailed Hawk,Raptors and vultures,0,0,0,0,1,1,2
+BULI,Red-Shoudler Hawk,Raptors and vultures,0,0,0,0,1,0,1
+COAT,Black Vulture,Raptors and vultures,1,0,0,0,3,5,9
+CAAU,Turkey Vulture,Raptors and vultures,0,0,0,0,0,1,1
+CACH,Crested Caracara,Raptors and vultures,0,0,0,0,2,0,2
+BUSW,Swainson's Hawk,Raptors and vultures,0,0,0,0,0,3,3
+EGTH,Snowy Egret,Wading birds and waterfowl,3,0,2,0,0,0,5
+BUIB,Cattle Egret,Wading birds and waterfowl,0,8,0,0,17,2,27
+ARHE,Great Blue Heron,Wading birds and waterfowl,0,0,0,0,1,5,6
+ARAL,Great Egret,Wading birds and waterfowl,0,0,1,0,1,1,3
+EGCA,Little Blue Heron,Wading birds and waterfowl,0,0,1,0,1,0,2
+NUVI,Yellow-crowned Night Heron,Wading birds and waterfowl,0,0,0,0,1,3,4
+DEAU,Black-bellied Whislting Duck,Wading birds and waterfowl,0,0,1,0,2,17,20
+CHVO,Killdeer,Ground/open-country birds,0,0,0,0,1,2,3
+GECA,Greater Roadrunner,Ground/open-country birds,3,0,0,0,0,0,3
+MEGA,Wild Turkey,Ground/open-country birds,0,0,0,6,8,0,14

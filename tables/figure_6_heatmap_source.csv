@@ -1,0 +1,211 @@
+code,common_name,group,pond,pond_label,site,table_records
+LYRU,Bobcat,Predators,PUSP,Peri-urban S,Peri-urban,1
+LYRU,Bobcat,Predators,PUMP,Peri-urban M,Peri-urban,1
+LYRU,Bobcat,Predators,PULP,Peri-urban L,Peri-urban,3
+LYRU,Bobcat,Predators,RSP,Rural S,Rural,0
+LYRU,Bobcat,Predators,RMP,Rural M,Rural,0
+LYRU,Bobcat,Predators,RLP,Rural L,Rural,0
+CALA,Coyote,Predators,PUSP,Peri-urban S,Peri-urban,4
+CALA,Coyote,Predators,PUMP,Peri-urban M,Peri-urban,6
+CALA,Coyote,Predators,PULP,Peri-urban L,Peri-urban,6
+CALA,Coyote,Predators,RSP,Rural S,Rural,2
+CALA,Coyote,Predators,RMP,Rural M,Rural,5
+CALA,Coyote,Predators,RLP,Rural L,Rural,3
+ODVI,White tail Deer,Large Herbivore,PUSP,Peri-urban S,Peri-urban,1
+ODVI,White tail Deer,Large Herbivore,PUMP,Peri-urban M,Peri-urban,6
+ODVI,White tail Deer,Large Herbivore,PULP,Peri-urban L,Peri-urban,0
+ODVI,White tail Deer,Large Herbivore,RSP,Rural S,Rural,4
+ODVI,White tail Deer,Large Herbivore,RMP,Rural M,Rural,7
+ODVI,White tail Deer,Large Herbivore,RLP,Rural L,Rural,4
+SYFL,Eastern Cottontail,Small Herbivores,PUSP,Peri-urban S,Peri-urban,1
+SYFL,Eastern Cottontail,Small Herbivores,PUMP,Peri-urban M,Peri-urban,0
+SYFL,Eastern Cottontail,Small Herbivores,PULP,Peri-urban L,Peri-urban,5
+SYFL,Eastern Cottontail,Small Herbivores,RSP,Rural S,Rural,0
+SYFL,Eastern Cottontail,Small Herbivores,RMP,Rural M,Rural,0
+SYFL,Eastern Cottontail,Small Herbivores,RLP,Rural L,Rural,0
+SCNI,Eastern Fox Squirrel,Small Herbivores,PUSP,Peri-urban S,Peri-urban,0
+SCNI,Eastern Fox Squirrel,Small Herbivores,PUMP,Peri-urban M,Peri-urban,0
+SCNI,Eastern Fox Squirrel,Small Herbivores,PULP,Peri-urban L,Peri-urban,0
+SCNI,Eastern Fox Squirrel,Small Herbivores,RSP,Rural S,Rural,0
+SCNI,Eastern Fox Squirrel,Small Herbivores,RMP,Rural M,Rural,2
+SCNI,Eastern Fox Squirrel,Small Herbivores,RLP,Rural L,Rural,0
+SUSC,Feral Pig,Omivores,PUSP,Peri-urban S,Peri-urban,41
+SUSC,Feral Pig,Omivores,PUMP,Peri-urban M,Peri-urban,9
+SUSC,Feral Pig,Omivores,PULP,Peri-urban L,Peri-urban,16
+SUSC,Feral Pig,Omivores,RSP,Rural S,Rural,19
+SUSC,Feral Pig,Omivores,RMP,Rural M,Rural,0
+SUSC,Feral Pig,Omivores,RLP,Rural L,Rural,3
+DIVI,Virginian Opossum,Omivores,PUSP,Peri-urban S,Peri-urban,1
+DIVI,Virginian Opossum,Omivores,PUMP,Peri-urban M,Peri-urban,0
+DIVI,Virginian Opossum,Omivores,PULP,Peri-urban L,Peri-urban,0
+DIVI,Virginian Opossum,Omivores,RSP,Rural S,Rural,0
+DIVI,Virginian Opossum,Omivores,RMP,Rural M,Rural,0
+DIVI,Virginian Opossum,Omivores,RLP,Rural L,Rural,0
+PRLO,Northern Raccoon,Omivores,PUSP,Peri-urban S,Peri-urban,3
+PRLO,Northern Raccoon,Omivores,PUMP,Peri-urban M,Peri-urban,0
+PRLO,Northern Raccoon,Omivores,PULP,Peri-urban L,Peri-urban,3
+PRLO,Northern Raccoon,Omivores,RSP,Rural S,Rural,5
+PRLO,Northern Raccoon,Omivores,RMP,Rural M,Rural,0
+PRLO,Northern Raccoon,Omivores,RLP,Rural L,Rural,0
+DANO,Nine Banded Armadillo,Omivores,PUSP,Peri-urban S,Peri-urban,1
+DANO,Nine Banded Armadillo,Omivores,PUMP,Peri-urban M,Peri-urban,0
+DANO,Nine Banded Armadillo,Omivores,PULP,Peri-urban L,Peri-urban,1
+DANO,Nine Banded Armadillo,Omivores,RSP,Rural S,Rural,0
+DANO,Nine Banded Armadillo,Omivores,RMP,Rural M,Rural,1
+DANO,Nine Banded Armadillo,Omivores,RLP,Rural L,Rural,1
+MEME,Striped Skunk,Omivores,PUSP,Peri-urban S,Peri-urban,1
+MEME,Striped Skunk,Omivores,PUMP,Peri-urban M,Peri-urban,0
+MEME,Striped Skunk,Omivores,PULP,Peri-urban L,Peri-urban,5
+MEME,Striped Skunk,Omivores,RSP,Rural S,Rural,0
+MEME,Striped Skunk,Omivores,RMP,Rural M,Rural,0
+MEME,Striped Skunk,Omivores,RLP,Rural L,Rural,0
+PSTE,Texas Cooter,Reptiles,PUSP,Peri-urban S,Peri-urban,0
+PSTE,Texas Cooter,Reptiles,PUMP,Peri-urban M,Peri-urban,0
+PSTE,Texas Cooter,Reptiles,PULP,Peri-urban L,Peri-urban,0
+PSTE,Texas Cooter,Reptiles,RSP,Rural S,Rural,0
+PSTE,Texas Cooter,Reptiles,RMP,Rural M,Rural,0
+PSTE,Texas Cooter,Reptiles,RLP,Rural L,Rural,5
+TRSC,Red-eared slider,Reptiles,PUSP,Peri-urban S,Peri-urban,0
+TRSC,Red-eared slider,Reptiles,PUMP,Peri-urban M,Peri-urban,0
+TRSC,Red-eared slider,Reptiles,PULP,Peri-urban L,Peri-urban,1
+TRSC,Red-eared slider,Reptiles,RSP,Rural S,Rural,0
+TRSC,Red-eared slider,Reptiles,RMP,Rural M,Rural,0
+TRSC,Red-eared slider,Reptiles,RLP,Rural L,Rural,0
+ZEMA,Mourning Dove,Perching birds,PUSP,Peri-urban S,Peri-urban,9
+ZEMA,Mourning Dove,Perching birds,PUMP,Peri-urban M,Peri-urban,2
+ZEMA,Mourning Dove,Perching birds,PULP,Peri-urban L,Peri-urban,0
+ZEMA,Mourning Dove,Perching birds,RSP,Rural S,Rural,0
+ZEMA,Mourning Dove,Perching birds,RMP,Rural M,Rural,11
+ZEMA,Mourning Dove,Perching birds,RLP,Rural L,Rural,0
+CACA,Northern Cardinal,Perching birds,PUSP,Peri-urban S,Peri-urban,7
+CACA,Northern Cardinal,Perching birds,PUMP,Peri-urban M,Peri-urban,0
+CACA,Northern Cardinal,Perching birds,PULP,Peri-urban L,Peri-urban,1
+CACA,Northern Cardinal,Perching birds,RSP,Rural S,Rural,0
+CACA,Northern Cardinal,Perching birds,RMP,Rural M,Rural,1
+CACA,Northern Cardinal,Perching birds,RLP,Rural L,Rural,3
+TYFO,Scissor-tailed Flycatcher,Perching birds,PUSP,Peri-urban S,Peri-urban,1
+TYFO,Scissor-tailed Flycatcher,Perching birds,PUMP,Peri-urban M,Peri-urban,0
+TYFO,Scissor-tailed Flycatcher,Perching birds,PULP,Peri-urban L,Peri-urban,0
+TYFO,Scissor-tailed Flycatcher,Perching birds,RSP,Rural S,Rural,0
+TYFO,Scissor-tailed Flycatcher,Perching birds,RMP,Rural M,Rural,0
+TYFO,Scissor-tailed Flycatcher,Perching birds,RLP,Rural L,Rural,2
+QUME,Great-tailed Grackle,Perching birds,PUSP,Peri-urban S,Peri-urban,0
+QUME,Great-tailed Grackle,Perching birds,PUMP,Peri-urban M,Peri-urban,0
+QUME,Great-tailed Grackle,Perching birds,PULP,Peri-urban L,Peri-urban,3
+QUME,Great-tailed Grackle,Perching birds,RSP,Rural S,Rural,0
+QUME,Great-tailed Grackle,Perching birds,RMP,Rural M,Rural,0
+QUME,Great-tailed Grackle,Perching birds,RLP,Rural L,Rural,0
+COBR,American Southern Crow,Perching birds,PUSP,Peri-urban S,Peri-urban,0
+COBR,American Southern Crow,Perching birds,PUMP,Peri-urban M,Peri-urban,0
+COBR,American Southern Crow,Perching birds,PULP,Peri-urban L,Peri-urban,0
+COBR,American Southern Crow,Perching birds,RSP,Rural S,Rural,0
+COBR,American Southern Crow,Perching birds,RMP,Rural M,Rural,3
+COBR,American Southern Crow,Perching birds,RLP,Rural L,Rural,2
+ZEAS,White winged Dove,Perching birds,PUSP,Peri-urban S,Peri-urban,0
+ZEAS,White winged Dove,Perching birds,PUMP,Peri-urban M,Peri-urban,0
+ZEAS,White winged Dove,Perching birds,PULP,Peri-urban L,Peri-urban,0
+ZEAS,White winged Dove,Perching birds,RSP,Rural S,Rural,0
+ZEAS,White winged Dove,Perching birds,RMP,Rural M,Rural,2
+ZEAS,White winged Dove,Perching birds,RLP,Rural L,Rural,0
+AGPH,Red-winger Blackbird,Perching birds,PUSP,Peri-urban S,Peri-urban,0
+AGPH,Red-winger Blackbird,Perching birds,PUMP,Peri-urban M,Peri-urban,0
+AGPH,Red-winger Blackbird,Perching birds,PULP,Peri-urban L,Peri-urban,10
+AGPH,Red-winger Blackbird,Perching birds,RSP,Rural S,Rural,0
+AGPH,Red-winger Blackbird,Perching birds,RMP,Rural M,Rural,0
+AGPH,Red-winger Blackbird,Perching birds,RLP,Rural L,Rural,0
+BUJA,Red-tailed Hawk,Raptors and vultures,PUSP,Peri-urban S,Peri-urban,0
+BUJA,Red-tailed Hawk,Raptors and vultures,PUMP,Peri-urban M,Peri-urban,0
+BUJA,Red-tailed Hawk,Raptors and vultures,PULP,Peri-urban L,Peri-urban,0
+BUJA,Red-tailed Hawk,Raptors and vultures,RSP,Rural S,Rural,0
+BUJA,Red-tailed Hawk,Raptors and vultures,RMP,Rural M,Rural,1
+BUJA,Red-tailed Hawk,Raptors and vultures,RLP,Rural L,Rural,1
+BULI,Red-Shoudler Hawk,Raptors and vultures,PUSP,Peri-urban S,Peri-urban,0
+BULI,Red-Shoudler Hawk,Raptors and vultures,PUMP,Peri-urban M,Peri-urban,0
+BULI,Red-Shoudler Hawk,Raptors and vultures,PULP,Peri-urban L,Peri-urban,0
+BULI,Red-Shoudler Hawk,Raptors and vultures,RSP,Rural S,Rural,0
+BULI,Red-Shoudler Hawk,Raptors and vultures,RMP,Rural M,Rural,1
+BULI,Red-Shoudler Hawk,Raptors and vultures,RLP,Rural L,Rural,0
+COAT,Black Vulture,Raptors and vultures,PUSP,Peri-urban S,Peri-urban,1
+COAT,Black Vulture,Raptors and vultures,PUMP,Peri-urban M,Peri-urban,0
+COAT,Black Vulture,Raptors and vultures,PULP,Peri-urban L,Peri-urban,0
+COAT,Black Vulture,Raptors and vultures,RSP,Rural S,Rural,0
+COAT,Black Vulture,Raptors and vultures,RMP,Rural M,Rural,3
+COAT,Black Vulture,Raptors and vultures,RLP,Rural L,Rural,5
+CAAU,Turkey Vulture,Raptors and vultures,PUSP,Peri-urban S,Peri-urban,0
+CAAU,Turkey Vulture,Raptors and vultures,PUMP,Peri-urban M,Peri-urban,0
+CAAU,Turkey Vulture,Raptors and vultures,PULP,Peri-urban L,Peri-urban,0
+CAAU,Turkey Vulture,Raptors and vultures,RSP,Rural S,Rural,0
+CAAU,Turkey Vulture,Raptors and vultures,RMP,Rural M,Rural,0
+CAAU,Turkey Vulture,Raptors and vultures,RLP,Rural L,Rural,1
+CACH,Crested Caracara,Raptors and vultures,PUSP,Peri-urban S,Peri-urban,0
+CACH,Crested Caracara,Raptors and vultures,PUMP,Peri-urban M,Peri-urban,0
+CACH,Crested Caracara,Raptors and vultures,PULP,Peri-urban L,Peri-urban,0
+CACH,Crested Caracara,Raptors and vultures,RSP,Rural S,Rural,0
+CACH,Crested Caracara,Raptors and vultures,RMP,Rural M,Rural,2
+CACH,Crested Caracara,Raptors and vultures,RLP,Rural L,Rural,0
+BUSW,Swainson's Hawk,Raptors and vultures,PUSP,Peri-urban S,Peri-urban,0
+BUSW,Swainson's Hawk,Raptors and vultures,PUMP,Peri-urban M,Peri-urban,0
+BUSW,Swainson's Hawk,Raptors and vultures,PULP,Peri-urban L,Peri-urban,0
+BUSW,Swainson's Hawk,Raptors and vultures,RSP,Rural S,Rural,0
+BUSW,Swainson's Hawk,Raptors and vultures,RMP,Rural M,Rural,0
+BUSW,Swainson's Hawk,Raptors and vultures,RLP,Rural L,Rural,3
+EGTH,Snowy Egret,Wading birds and waterfowl,PUSP,Peri-urban S,Peri-urban,3
+EGTH,Snowy Egret,Wading birds and waterfowl,PUMP,Peri-urban M,Peri-urban,0
+EGTH,Snowy Egret,Wading birds and waterfowl,PULP,Peri-urban L,Peri-urban,2
+EGTH,Snowy Egret,Wading birds and waterfowl,RSP,Rural S,Rural,0
+EGTH,Snowy Egret,Wading birds and waterfowl,RMP,Rural M,Rural,0
+EGTH,Snowy Egret,Wading birds and waterfowl,RLP,Rural L,Rural,0
+BUIB,Cattle Egret,Wading birds and waterfowl,PUSP,Peri-urban S,Peri-urban,0
+BUIB,Cattle Egret,Wading birds and waterfowl,PUMP,Peri-urban M,Peri-urban,8
+BUIB,Cattle Egret,Wading birds and waterfowl,PULP,Peri-urban L,Peri-urban,0
+BUIB,Cattle Egret,Wading birds and waterfowl,RSP,Rural S,Rural,0
+BUIB,Cattle Egret,Wading birds and waterfowl,RMP,Rural M,Rural,17
+BUIB,Cattle Egret,Wading birds and waterfowl,RLP,Rural L,Rural,2
+ARHE,Great Blue Heron,Wading birds and waterfowl,PUSP,Peri-urban S,Peri-urban,0
+ARHE,Great Blue Heron,Wading birds and waterfowl,PUMP,Peri-urban M,Peri-urban,0
+ARHE,Great Blue Heron,Wading birds and waterfowl,PULP,Peri-urban L,Peri-urban,0
+ARHE,Great Blue Heron,Wading birds and waterfowl,RSP,Rural S,Rural,0
+ARHE,Great Blue Heron,Wading birds and waterfowl,RMP,Rural M,Rural,1
+ARHE,Great Blue Heron,Wading birds and waterfowl,RLP,Rural L,Rural,5
+ARAL,Great Egret,Wading birds and waterfowl,PUSP,Peri-urban S,Peri-urban,0
+ARAL,Great Egret,Wading birds and waterfowl,PUMP,Peri-urban M,Peri-urban,0
+ARAL,Great Egret,Wading birds and waterfowl,PULP,Peri-urban L,Peri-urban,1
+ARAL,Great Egret,Wading birds and waterfowl,RSP,Rural S,Rural,0
+ARAL,Great Egret,Wading birds and waterfowl,RMP,Rural M,Rural,1
+ARAL,Great Egret,Wading birds and waterfowl,RLP,Rural L,Rural,1
+EGCA,Little Blue Heron,Wading birds and waterfowl,PUSP,Peri-urban S,Peri-urban,0
+EGCA,Little Blue Heron,Wading birds and waterfowl,PUMP,Peri-urban M,Peri-urban,0
+EGCA,Little Blue Heron,Wading birds and waterfowl,PULP,Peri-urban L,Peri-urban,1
+EGCA,Little Blue Heron,Wading birds and waterfowl,RSP,Rural S,Rural,0
+EGCA,Little Blue Heron,Wading birds and waterfowl,RMP,Rural M,Rural,1
+EGCA,Little Blue Heron,Wading birds and waterfowl,RLP,Rural L,Rural,0
+NUVI,Yellow-crowned Night Heron,Wading birds and waterfowl,PUSP,Peri-urban S,Peri-urban,0
+NUVI,Yellow-crowned Night Heron,Wading birds and waterfowl,PUMP,Peri-urban M,Peri-urban,0
+NUVI,Yellow-crowned Night Heron,Wading birds and waterfowl,PULP,Peri-urban L,Peri-urban,0
+NUVI,Yellow-crowned Night Heron,Wading birds and waterfowl,RSP,Rural S,Rural,0
+NUVI,Yellow-crowned Night Heron,Wading birds and waterfowl,RMP,Rural M,Rural,1
+NUVI,Yellow-crowned Night Heron,Wading birds and waterfowl,RLP,Rural L,Rural,3
+DEAU,Black-bellied Whislting Duck,Wading birds and waterfowl,PUSP,Peri-urban S,Peri-urban,0
+DEAU,Black-bellied Whislting Duck,Wading birds and waterfowl,PUMP,Peri-urban M,Peri-urban,0
+DEAU,Black-bellied Whislting Duck,Wading birds and waterfowl,PULP,Peri-urban L,Peri-urban,1
+DEAU,Black-bellied Whislting Duck,Wading birds and waterfowl,RSP,Rural S,Rural,0
+DEAU,Black-bellied Whislting Duck,Wading birds and waterfowl,RMP,Rural M,Rural,2
+DEAU,Black-bellied Whislting Duck,Wading birds and waterfowl,RLP,Rural L,Rural,17
+CHVO,Killdeer,Ground/open-country birds,PUSP,Peri-urban S,Peri-urban,0
+CHVO,Killdeer,Ground/open-country birds,PUMP,Peri-urban M,Peri-urban,0
+CHVO,Killdeer,Ground/open-country birds,PULP,Peri-urban L,Peri-urban,0
+CHVO,Killdeer,Ground/open-country birds,RSP,Rural S,Rural,0
+CHVO,Killdeer,Ground/open-country birds,RMP,Rural M,Rural,1
+CHVO,Killdeer,Ground/open-country birds,RLP,Rural L,Rural,2
+GECA,Greater Roadrunner,Ground/open-country birds,PUSP,Peri-urban S,Peri-urban,3
+GECA,Greater Roadrunner,Ground/open-country birds,PUMP,Peri-urban M,Peri-urban,0
+GECA,Greater Roadrunner,Ground/open-country birds,PULP,Peri-urban L,Peri-urban,0
+GECA,Greater Roadrunner,Ground/open-country birds,RSP,Rural S,Rural,0
+GECA,Greater Roadrunner,Ground/open-country birds,RMP,Rural M,Rural,0
+GECA,Greater Roadrunner,Ground/open-country birds,RLP,Rural L,Rural,0
+MEGA,Wild Turkey,Ground/open-country birds,PUSP,Peri-urban S,Peri-urban,0
+MEGA,Wild Turkey,Ground/open-country birds,PUMP,Peri-urban M,Peri-urban,0
+MEGA,Wild Turkey,Ground/open-country birds,PULP,Peri-urban L,Peri-urban,0
+MEGA,Wild Turkey,Ground/open-country birds,RSP,Rural S,Rural,6
+MEGA,Wild Turkey,Ground/open-country birds,RMP,Rural M,Rural,8
+MEGA,Wild Turkey,Ground/open-country birds,RLP,Rural L,Rural,0

@@ -1,0 +1,36 @@
+code,common_name,group,total_records,periurban_records,rural_records,occurrence_status
+LYRU,Bobcat,Predators,5,5,0,Peri-urban only
+CALA,Coyote,Predators,26,16,10,Both properties
+ODVI,White tail Deer,Large Herbivore,22,7,15,Both properties
+SYFL,Eastern Cottontail,Small Herbivores,6,6,0,Peri-urban only
+SCNI,Eastern Fox Squirrel,Small Herbivores,2,0,2,Rural only
+SUSC,Feral Pig,Omivores,88,66,22,Both properties
+DIVI,Virginian Opossum,Omivores,1,1,0,Peri-urban only
+PRLO,Northern Raccoon,Omivores,11,6,5,Both properties
+DANO,Nine Banded Armadillo,Omivores,4,2,2,Both properties
+MEME,Striped Skunk,Omivores,6,6,0,Peri-urban only
+PSTE,Texas Cooter,Reptiles,5,0,5,Rural only
+TRSC,Red-eared slider,Reptiles,1,1,0,Peri-urban only
+ZEMA,Mourning Dove,Perching birds,22,11,11,Both properties
+CACA,Northern Cardinal,Perching birds,12,8,4,Both properties
+TYFO,Scissor-tailed Flycatcher,Perching birds,3,1,2,Both properties
+QUME,Great-tailed Grackle,Perching birds,3,3,0,Peri-urban only
+COBR,American Southern Crow,Perching birds,5,0,5,Rural only
+ZEAS,White winged Dove,Perching birds,2,0,2,Rural only
+AGPH,Red-winger Blackbird,Perching birds,10,10,0,Peri-urban only
+BUJA,Red-tailed Hawk,Raptors and vultures,2,0,2,Rural only
+BULI,Red-Shoudler Hawk,Raptors and vultures,1,0,1,Rural only
+COAT,Black Vulture,Raptors and vultures,9,1,8,Both properties
+CAAU,Turkey Vulture,Raptors and vultures,1,0,1,Rural only
+CACH,Crested Caracara,Raptors and vultures,2,0,2,Rural only
+BUSW,Swainson's Hawk,Raptors and vultures,3,0,3,Rural only
+EGTH,Snowy Egret,Wading birds and waterfowl,5,5,0,Peri-urban only
+BUIB,Cattle Egret,Wading birds and waterfowl,27,8,19,Both properties
+ARHE,Great Blue Heron,Wading birds and waterfowl,6,0,6,Rural only
+ARAL,Great Egret,Wading birds and waterfowl,3,1,2,Both properties
+EGCA,Little Blue Heron,Wading birds and waterfowl,2,1,1,Both properties
+NUVI,Yellow-crowned Night Heron,Wading birds and waterfowl,4,0,4,Rural only
+DEAU,Black-bellied Whislting Duck,Wading birds and waterfowl,20,1,19,Both properties
+CHVO,Killdeer,Ground/open-country birds,3,0,3,Rural only
+GECA,Greater Roadrunner,Ground/open-country birds,3,3,0,Peri-urban only
+MEGA,Wild Turkey,Ground/open-country birds,14,0,14,Rural only

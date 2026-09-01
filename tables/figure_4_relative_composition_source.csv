@@ -1,0 +1,55 @@
+pond,site,taxon,table_records,proportion
+PULP,Peri-urban,Black-bellied Whislting Duck (DEAU),1,0.01694915254237288
+PULP,Peri-urban,Cattle Egret (BUIB),0,0
+PULP,Peri-urban,Coyote (CALA),6,0.1016949152542373
+PULP,Peri-urban,Feral Pig (SUSC),16,0.2711864406779661
+PULP,Peri-urban,Mourning Dove (ZEMA),0,0
+PULP,Peri-urban,Northern Cardinal (CACA),1,0.01694915254237288
+PULP,Peri-urban,Other taxa,35,0.5932203389830508
+PULP,Peri-urban,White tail Deer (ODVI),0,0
+PULP,Peri-urban,Wild Turkey (MEGA),0,0
+PUMP,Peri-urban,Black-bellied Whislting Duck (DEAU),0,0
+PUMP,Peri-urban,Cattle Egret (BUIB),8,0.25
+PUMP,Peri-urban,Coyote (CALA),6,0.1875
+PUMP,Peri-urban,Feral Pig (SUSC),9,0.28125
+PUMP,Peri-urban,Mourning Dove (ZEMA),2,0.0625
+PUMP,Peri-urban,Northern Cardinal (CACA),0,0
+PUMP,Peri-urban,Other taxa,1,0.03125
+PUMP,Peri-urban,White tail Deer (ODVI),6,0.1875
+PUMP,Peri-urban,Wild Turkey (MEGA),0,0
+PUSP,Peri-urban,Black-bellied Whislting Duck (DEAU),0,0
+PUSP,Peri-urban,Cattle Egret (BUIB),0,0
+PUSP,Peri-urban,Coyote (CALA),4,0.05128205128205128
+PUSP,Peri-urban,Feral Pig (SUSC),41,0.5256410256410257
+PUSP,Peri-urban,Mourning Dove (ZEMA),9,0.11538461538461539
+PUSP,Peri-urban,Northern Cardinal (CACA),7,0.08974358974358974
+PUSP,Peri-urban,Other taxa,16,0.20512820512820512
+PUSP,Peri-urban,White tail Deer (ODVI),1,0.01282051282051282
+PUSP,Peri-urban,Wild Turkey (MEGA),0,0
+RLP,Rural,Black-bellied Whislting Duck (DEAU),17,0.2698412698412698
+RLP,Rural,Cattle Egret (BUIB),2,0.031746031746031744
+RLP,Rural,Coyote (CALA),3,0.047619047619047616
+RLP,Rural,Feral Pig (SUSC),3,0.047619047619047616
+RLP,Rural,Mourning Dove (ZEMA),0,0
+RLP,Rural,Northern Cardinal (CACA),3,0.047619047619047616
+RLP,Rural,Other taxa,31,0.49206349206349204
+RLP,Rural,White tail Deer (ODVI),4,0.06349206349206349
+RLP,Rural,Wild Turkey (MEGA),0,0
+RMP,Rural,Black-bellied Whislting Duck (DEAU),2,0.028169014084507043
+RMP,Rural,Cattle Egret (BUIB),17,0.23943661971830985
+RMP,Rural,Coyote (CALA),5,0.07042253521126761
+RMP,Rural,Feral Pig (SUSC),0,0
+RMP,Rural,Mourning Dove (ZEMA),11,0.15492957746478872
+RMP,Rural,Northern Cardinal (CACA),1,0.014084507042253521
+RMP,Rural,Other taxa,20,0.28169014084507044
+RMP,Rural,White tail Deer (ODVI),7,0.09859154929577464
+RMP,Rural,Wild Turkey (MEGA),8,0.11267605633802817
+RSP,Rural,Black-bellied Whislting Duck (DEAU),0,0
+RSP,Rural,Cattle Egret (BUIB),0,0
+RSP,Rural,Coyote (CALA),2,0.05555555555555555
+RSP,Rural,Feral Pig (SUSC),19,0.5277777777777778
+RSP,Rural,Mourning Dove (ZEMA),0,0
+RSP,Rural,Northern Cardinal (CACA),0,0
+RSP,Rural,Other taxa,5,0.1388888888888889
+RSP,Rural,White tail Deer (ODVI),4,0.1111111111111111
+RSP,Rural,Wild Turkey (MEGA),6,0.16666666666666666
